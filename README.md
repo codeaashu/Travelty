@@ -1,2 +1,2 @@
 # Travelty
-A Tours Travels website. 
+`A Tours Travels website.`
